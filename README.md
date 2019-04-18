@@ -1,1 +1,2 @@
-# A simple number base conversion tool
+# Base Converter
+A simple number base conversion tool
